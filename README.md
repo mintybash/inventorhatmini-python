@@ -22,13 +22,13 @@ In some cases you may need to install pip with: `sudo apt install python3-pip`
 
 **Stable library, with latest examples from GitHub:**
 
-* `git clone https://github.com/pimoroni/inventorhatmini-python`
+* `git clone https://github.com/minty-bash/inventorhatmini-python`
 * `cd inventorhatmini-python`
 * `./install.sh`
 
 **Latest/development library and examples from GitHub:**
 
-* `git clone https://github.com/pimoroni/inventorhatmini-python`
+* `git clone https://github.com/minty-bash/inventorhatmini-python`
 * `cd inventorhatmini-python`
 * `./install.sh --unstable`
 
